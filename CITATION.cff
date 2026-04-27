@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Appendix C
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anna-Pauliina
+    family-names: Kokko
+identifiers:
+  - type: url
+    value: 'https://github.com/apk-maker-bit/AppendixC.git'
+version: '00'
+date-released: '2026-04-27'
